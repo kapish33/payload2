@@ -1,4 +1,5 @@
 # Payload vars
+NODE_ENV=production
 PORT=3000
 MONGODB_URI=mongodb+srv://kapish:kapish@cluster0.ch85x.mongodb.net/ambee
 PAYLOAD_SECRET=098732498612hkjhsfjs2987
